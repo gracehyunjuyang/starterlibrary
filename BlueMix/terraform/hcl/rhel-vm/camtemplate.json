@@ -23,9 +23,9 @@
       }
     },
     "metadata": {
-      "displayName": "1 Virtual Server with SSH Key",
+      "displayName": "1 Virtual Server with SSH Key RHEL",
       "providerDisplayName": "IBM",
-      "longDescription": "Use this cloud resource template to quickly provision a Debian 7 64 bit virtual server with ssh key in a datacenter of your choice.",
+      "longDescription": "Use this cloud resource template to quickly provision a RHEL 7 64 bit virtual server with ssh key in a datacenter of your choice.",
       "bullets": [
        {
          "title": "Clouds",
@@ -41,7 +41,7 @@
        },
        {
          "title": "Default virtual machine settings",
-         "description": "<ul><li>IBM Cloud:<ul style=\"margin-left: 20px;\"><li>Flavor: Cores = 1, Memory = 1GB, Storage = 25GB SAN</li><li>Network: Private IP - Computed, Public IP - Computed</li></ul></li></ul>"
+         "description": "<ul><li>IBM Cloud:<ul style=\"margin-left: 20px;\"><li>Flavor: Cores = 2, Memory = 4GB, Storage = 25GB SAN</li><li>Network: Private IP - Computed, Public IP - Computed</li></ul></li></ul>"
        },
        {
          "title": "Usage and special notes",
